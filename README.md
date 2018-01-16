@@ -1,3 +1,4 @@
 # Hello-world
 This is my first GitHub.
-I am studing python language.
+This is for xnb files.
+xnb file is too big. I want to change its size  smaller.
