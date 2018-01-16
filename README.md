@@ -1,2 +1,3 @@
 # Hello-world
-this is my first github
+This is my first github
+I am studing python language.
